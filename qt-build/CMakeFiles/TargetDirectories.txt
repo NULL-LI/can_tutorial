@@ -1,0 +1,3 @@
+/home/null/tools/can_tutorial/qt-build/CMakeFiles/edit_cache.dir
+/home/null/tools/can_tutorial/qt-build/CMakeFiles/rebuild_cache.dir
+/home/null/tools/can_tutorial/qt-build/CMakeFiles/simple_can.dir
